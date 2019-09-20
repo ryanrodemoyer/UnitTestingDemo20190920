@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataAccess.cs" />
+    <Compile Include="WebScraper2.cs" />
+    <Compile Include="WebScraper.cs" />
     <Compile Include="Lodash.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

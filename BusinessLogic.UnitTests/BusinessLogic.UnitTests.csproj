@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="LodashTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebScraper2Tests.cs" />
     <Compile Include="WebScraperTests.cs" />
   </ItemGroup>
   <ItemGroup>
